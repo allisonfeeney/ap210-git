@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('AP210 Package Model'),'2;1');
@@ -18864,3 +18865,8 @@ DATA;
 #18857=AXIS_PLACEMENT_2D_3D_MAPPING('',$,#6,#18571);
 ENDSEC;
 END-ISO-10303-21;
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa29d28456ff8acc83d3cd4d76447730aef8afb9719abe099243df8dbd3b5cf3
+size 831566
+>>>>>>> Stashed changes
